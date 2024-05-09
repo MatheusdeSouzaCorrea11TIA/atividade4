@@ -8,6 +8,10 @@ body {
     color: #fed7aa;
 }
 
+header {
+    background-color: #290a01;
+}
+
 h1, h2, h3 {
     color: #f97316;
 }
